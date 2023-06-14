@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DNS Revit AddIn</Name>
+    <Assembly>C:\ProgramData\DNSCAD\AIREVIT\cbb.dll</Assembly>
+    <AddInId>3897CC6E-2E18-4CD6-9CFC-E3EF7D2DCCE5</AddInId>
+    <FullClassName>cbb.Main</FullClassName>
+    <VendorId>Halil Saltik</VendorId>
+    <Publisher>Halil Saltik</Publisher>
+    <VendorDescription>Metal Yapi Holding</VendorDescription>
+  </AddIn>
+</RevitAddIns>
